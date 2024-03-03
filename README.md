@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Batuhan Güçlü</b>, a college <b>Dropout</b> from Zurich, Switzerland<b>Doing my best</b> to built my future in
+    This is me <b>Batuhan Güçlü</b>, a college <b>Dropout</b> from Zurich, Switzerland. <b>Doing my best</b> to built my future in
     <b>Solana programming.</b>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
